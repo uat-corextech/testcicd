@@ -1,1 +1,1 @@
-FROM  uatcorextech/nginx:1.2
+FROM  uatcorextech/testwebapp:1.0
